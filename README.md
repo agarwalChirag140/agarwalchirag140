@@ -11,7 +11,7 @@
 ## Skills
 
 - :rocket: Languages - HTML, CSS and JavaScript
-- :rocket: FrameWork/Libraries - Angular, React.js, Redux, TailwindCSS
+- :rocket: FrameWork/Libraries - Angular, React.js, Redux, TailwindCSS, Bootstrap
 - :rocket: Databases/Backend - Firebase
 - :rocket: Others - Git, VSCod
 
