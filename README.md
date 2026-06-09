@@ -15,6 +15,14 @@
 - :rocket: Databases/Backend - Firebase
 - :rocket: Others - Git, VSCod
 
+## 🚀 Projects
+
+| Project | Description | Tech Stack | Live |
+|---------|-------------|------------|------|
+| [Covid Tracker App](https://github.com/agarwalchirag140/covid-tracker-app) | Tracks COVID-19 cases, recoveries & deaths via interactive maps | React.js, Chart.js, Disease.sh API | [Live Demo](https://agarwalchirag140.github.io/covid-tracker-app) |
+| [Netflix Clone](https://github.com/agarwalchirag140/netflix_clone) | Browse movies & watch trailers using TMDB API | React.js, Redux, TMDB API | [GitHub](https://github.com/agarwalchirag140/netflix_clone) |
+| [Image Search App](https://github.com/agarwalchirag140/image_search) | Search & display images dynamically | HTML, CSS, JavaScript, Unsplash API | [Live Demo](https://agarwalchirag140.github.io/image_search/) |
+
 ![Chirag's github stats](https://github-readme-stats.vercel.app/api?username=agarwalchirag140)
 
 <!---
