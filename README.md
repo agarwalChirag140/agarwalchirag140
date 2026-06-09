@@ -7,6 +7,7 @@
 - :speech_balloon: Ask me about anything, I am happy to help
 - :mailbox: How to reach me: agarwalchirag140@gmail.com;
 - Linkedin Url: https://www.linkedin.com/in/chirag-agarwal-06911a196/
+- Portfolio Url: https://agarwalchirag140.github.io/chirag-portfolio/
 
 ## Skills
 
