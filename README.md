@@ -3,8 +3,7 @@
 ## About Me
 
 - :telescope: I’m currently looking for job.
-- :seedling: I’m currently leaning MERN stack Development at masai school.
-- :mailbox: My Resume: https://drive.google.com/file/d/1nL-KcFsugCoJMCPx8DxNewMHo0Ecv6LW/view?usp=sharing;
+- :mailbox: My Resume: https://drive.google.com/file/d/1liFwSRSHXK8mQCLqaYoQ5QP8vbGsrUSF/view?usp=sharing
 - :speech_balloon: Ask me about anything, I am happy to help
 - :mailbox: How to reach me: agarwalchirag140@gmail.com;
 - Linkedin Url: https://www.linkedin.com/in/chirag-agarwal-06911a196/
