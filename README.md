@@ -2,7 +2,7 @@
 
 ## About Me
 
-- :telescope: I’m currently looking for job.
+- :telescope: Frontend Developer passionate about building scalable, user-centric web applications using React, Redux, and Angular. Open to new opportunities.
 - :mailbox: My Resume: https://drive.google.com/file/d/1liFwSRSHXK8mQCLqaYoQ5QP8vbGsrUSF/view?usp=sharing
 - :speech_balloon: Ask me about anything, I am happy to help
 - :mailbox: How to reach me: agarwalchirag140@gmail.com;
